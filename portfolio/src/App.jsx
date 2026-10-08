@@ -99,7 +99,8 @@ function App() {
     <div className="about-info">
     <div>
       <strong>Education</strong>
-      <span>BS Software Engineering Technology</span>
+      <span>BS Software
+         Engineering Technology</span>
     </div>
 
     <div>
